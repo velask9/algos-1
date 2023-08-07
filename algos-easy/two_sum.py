@@ -8,7 +8,9 @@
 
 
 def two_sum(numbers, target_sum):
-    pass #TODO:
+    array = []
+    count = 0
+
 
 
 
